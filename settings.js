@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: 'QUEENELISA;;;==wbHdnYXFlMMZFd0B3cSZUeIJnNQVzXWlVVMVWMG1yTixEaQNTT4hzUDNWYjI2STx2VjJ1Ypwd=355591197452',
+  SESSION_ID: 'QUEENELISA;;;==AMhpVOa9EdrhlbuZlSsdWLw4WMtI2YlhnRQJUZoplezokYJd0ZNlFa4cnMjQlaaFUUwUUSpwd=982014887452',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
@@ -18,19 +18,19 @@ module.exports = {
 ☫ Work Type : @worktype
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
-  ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
+  ALIVE_MEDIA: '',
   MONGODB_URL: 'mongodb+srv://joshua:12345@elisa.7zgao.mongodb.net/', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
   BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
-  OWNER_NAME: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
-  OWNER_NUMBER: '94715166712',
+  OWNER_NAME: 'DIABLO',
+  OWNER_NUMBER: '254788410289',
   SUDO: '94715166712',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
   TIME_ZONE: 'Asia/Colombo',
-  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ by Ray',
+  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ by diablo',
   STICKER_AUTHOR: 'raybotto',
   STICKER_PACK: 'banditray',
   REMOVE_BG_APIKEY: '',
